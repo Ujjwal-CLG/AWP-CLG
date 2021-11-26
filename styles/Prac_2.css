@@ -1,0 +1,30 @@
+h1{
+  text-align: center;
+    font-size: 50px;
+}
+img
+{
+    display: block;
+    margin: auto;
+}
+p {
+  color: red;
+  /* border: 2px solid blue; */
+  font-family: "Baloo Bhai 2", cursive;
+  font-size: 25px;
+}
+p,
+li {
+  font-family: "Baloo Bhai 2", cursive;
+  font-size: 25px;
+}
+html{
+    background-color: #00539F;
+}
+body { 
+    width: 600px; 
+    margin: 50px auto; 
+    background-color: #FF9500; 
+    padding: 0 20px 20px 20px; 
+    border: 5px solid black; 
+    }
